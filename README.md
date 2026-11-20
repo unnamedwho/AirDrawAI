@@ -1,7 +1,7 @@
 
 # AirDraw AI — Hand Gesture Detection with YOLOv8
 
-**CSCI1409 Deep Learning | Bonus Project | KBTU**
+**CSCI1409 Deep Learning | KBTU**
 
 AirDraw AI is a hand gesture detection project using YOLOv8n. The model recognizes four hand gestures and can be used in a virtual drawing application with MediaPipe and OpenCV.
 
